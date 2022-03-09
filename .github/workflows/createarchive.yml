@@ -11,3 +11,7 @@ jobs:
         type: 'zip'
         filename: 'figurasoundpack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - uses: actions/upload-artifact@v3.0.0
+    - name: Upload Archive
+      with:
+        path: "figurasoundpack.zip"
