@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 8,
+    "description": "Figura Custom Sounds Pack"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "Brit'ish",
+      "region": "Australia",
+      "bidirectional": false
+    }
+  }
+}
