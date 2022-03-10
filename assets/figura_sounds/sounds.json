@@ -15,12 +15,20 @@
     ],
     "subtitle": "Boowomp"
   },
-     "memes.skeletonTrumpet": {
+   "memes.skeletonTrumpet": {
     "sounds": [
       {
         "name": "figura_sounds:memes/skeletonTrumpet"
       }
     ],
     "subtitle": "Skeleton Trumpet"
+  },
+  "memes.bonk": {
+    "sounds": [
+      {
+        "name": "figura_sounds:memes/bonk"
+      }
+    ],
+    "subtitle": "bonk"
   }
 }
