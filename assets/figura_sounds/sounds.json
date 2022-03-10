@@ -2,7 +2,7 @@
   "memes.vineboom": {
     "sounds": [
       {
-        "name": "memes/vineboom"
+        "name": "figura_sounds:memes/vineboom"
       }
     ],
     "subtitle": "Vine Boom"
