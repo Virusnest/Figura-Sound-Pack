@@ -5,13 +5,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@master
-      with:
-        type: 'zip'
-        filename: 'figurasoundpack.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: Upload Archive
       uses: actions/upload-artifact@v3.0.0
       with:
-        path: "figurasoundpack.zip"
+        name: my-artifact
+        path: |
+          pack.mcmeta
+          pack.png
+          assets/
