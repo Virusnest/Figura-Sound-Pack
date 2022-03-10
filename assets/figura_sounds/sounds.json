@@ -30,5 +30,47 @@
       }
     ],
     "subtitle": "bonk"
+  },
+  "music.other.moon": {
+    "sounds": [
+      {
+        "name": "figura_sounds:music/other/moon"
+      }
+    ]
+  },
+  "music.undertale.dogsong": {
+    "sounds": [
+      {
+        "name": "figura_sounds:music/undertale/dogsong"
+      }
+    ]
+  },
+  "music.undertale.dummy": {
+    "sounds": [
+      {
+        "name": "figura_sounds:music/undertale/dummy"
+      }
+    ]
+  },
+  "music.undertale.megalovania": {
+    "sounds": [
+      {
+        "name": "figura_sounds:music/undertale/megalovania"
+      }
+    ]
+  },
+  "music.undertale.undynefight": {
+    "sounds": [
+      {
+        "name": "figura_sounds:music/undertale/undynefight"
+      }
+    ]
+  },
+  "music.undertale.asgorefight": {
+    "sounds": [
+      {
+        "name": "figura_sounds:music/undertale/asgorefight"
+      }
+    ]
   }
 }
