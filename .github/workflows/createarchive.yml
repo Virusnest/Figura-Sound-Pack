@@ -8,7 +8,7 @@ jobs:
     - name: Upload Archive
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: my-artifact
+        name: Figura-Sound-Pack
         path: |
           pack.mcmeta
           pack.png
