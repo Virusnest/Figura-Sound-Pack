@@ -14,5 +14,13 @@
       }
     ],
     "subtitle": "Boowomp"
+  },
+     "memes.skeletonTrumpet": {
+    "sounds": [
+      {
+        "name": "figura_sounds:memes/skeletonTrumpet"
+      }
+    ],
+    "subtitle": "Skeleton Trumpet"
   }
 }
