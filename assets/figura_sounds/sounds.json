@@ -6,5 +6,13 @@
       }
     ],
     "subtitle": "Vine Boom"
+  },
+   "memes.boowomp": {
+    "sounds": [
+      {
+        "name": "figura_sounds:memes/boowomp"
+      }
+    ],
+    "subtitle": "Boowomp"
   }
 }
